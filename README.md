@@ -51,7 +51,7 @@ A quick and dirty way around this would be to either combine our JavaScript file
 ...
 ```
 
-We could go one step futher and even in-line the JavaScript directly into our HTML in a `<script>` tag (sending everything at once in `index.html`):
+We could go one step further and even in-line the JavaScript directly into our HTML in a `<script>` tag (sending everything at once in `index.html`):
 
 ```html
 <!-- index.html -->
